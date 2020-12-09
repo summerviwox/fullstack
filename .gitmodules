@@ -1,3 +1,6 @@
 [submodule "fullstack-miniprogram"]
 	path = fullstack-miniprogram
 	url = https://github.com/summerviwox/fullstack-miniprogram.git
+[submodule "fullstack-android"]
+	path = fullstack-android
+	url = https://github.com/summerviwox/fullstack-android.git
