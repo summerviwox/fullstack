@@ -7,3 +7,6 @@
 [submodule "fullstack-web"]
 	path = fullstack-web
 	url = https://github.com/summerviwox/fullstack-web.git
+[submodule "fullstack-server"]
+	path = fullstack-server
+	url = https://github.com/summerviwox/fullstack-server.git
