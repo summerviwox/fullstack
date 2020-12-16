@@ -10,3 +10,6 @@
 [submodule "fullstack-server"]
 	path = fullstack-server
 	url = https://github.com/summerviwox/fullstack-server.git
+[submodule "fullstack-ui"]
+	path = fullstack-ui
+	url = https://github.com/summerviwox/fullstack-ui.git
